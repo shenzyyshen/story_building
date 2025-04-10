@@ -39,7 +39,7 @@ It was our **first hackathon experience** — and **we WON!** 🥇🚀
 
 ## 🖼️ Game Design
 
-You can view the game design [here](https://www.example.com/game-design-doc) 📄
+You can view the game design [here](https://github.com/shenzyyshen/story_building/blob/main/Story%20Telling%20FLow.jpg?raw=true) 📄
 
 ---
 
